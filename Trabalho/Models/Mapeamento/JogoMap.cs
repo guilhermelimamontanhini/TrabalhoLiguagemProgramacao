@@ -19,13 +19,11 @@ namespace Trabalho.Models.Mapeamento
             builder.Property(p => p.nome).HasMaxLength(35).IsRequired();
             builder.Property(p => p.preco).HasColumnType("float").IsRequired();
             builder.Property(p => p.genero).HasMaxLength(20).IsRequired();
-            builder.Property(p => p.lancamento).HasColumnType("DateTime").IsRequired();
 
-            builder.HasOne(p => p.usuario).WithMany(p => p.jogos).HasForeignKey(p => p.usuarioID);
-            builder.HasOne(p => p.plataforma).WithMany(p => p.jogos).HasForeignKey(p => p.plataforma);
-            builder.HasOne(p => p.empresa).WithMany(p => p.jogos).HasForeignKey(p => p.empresa);
+            builder.HasOne(p => p.usuario).WithMany(p => p.jogos).HasForeignKey(p => p.usuarioID).OnDelete(DeleteBehavior.NoAction); ;
+            builder.HasOne(p => p.plataforma).WithMany(p => p.jogos).HasForeignKey(p => p.plataformaID).OnDelete(DeleteBehavior.NoAction); ;
             
-            builder.ToTable("Jogo");
+            builder.ToTable("Jogos");
         }
     }
 }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Xqs+iXwukTzROZn0Q2DTvtuB30duyOedNC/Bqq+VbYCbdG+nniwmQ/QBNWVXJmshscOw4xPH9tcutoSFwGH+zA==",
+  "dgSpecHash": "6c65Qzfw4mHA5nm34tzN262LvNrkJgoJo0YVzkjYV38s5rM3J05Zgw5eLU+wKME89T66JMpTS+jJAtGvXmFI0Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\guilherme\\Documents\\FEMA_Materias\\Faculdade\\2_ano\\Linguagem_de_Programação\\projeto_trabalho\\Trabalho\\Trabalho\\Trabalho.csproj",
   "expectedPackageFiles": [
@@ -25,9 +25,9 @@
     "C:\\Users\\guilherme\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.9\\microsoft.entityframeworkcore.design.5.0.9.nupkg.sha512",
     "C:\\Users\\guilherme\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.9\\microsoft.entityframeworkcore.relational.5.0.9.nupkg.sha512",
     "C:\\Users\\guilherme\\.nuget\\packages\\microsoft.entityframeworkcore.relational.design\\1.1.6\\microsoft.entityframeworkcore.relational.design.1.1.6.nupkg.sha512",
-    "C:\\Users\\guilherme\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.9\\microsoft.entityframeworkcore.sqlserver.5.0.9.nupkg.sha512",
+    "C:\\Users\\guilherme\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.8\\microsoft.entityframeworkcore.sqlserver.5.0.8.nupkg.sha512",
     "C:\\Users\\guilherme\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver.design\\1.1.6\\microsoft.entityframeworkcore.sqlserver.design.1.1.6.nupkg.sha512",
-    "C:\\Users\\guilherme\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\5.0.9\\microsoft.entityframeworkcore.tools.5.0.9.nupkg.sha512",
+    "C:\\Users\\guilherme\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\5.0.8\\microsoft.entityframeworkcore.tools.5.0.8.nupkg.sha512",
     "C:\\Users\\guilherme\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\guilherme\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
     "C:\\Users\\guilherme\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",

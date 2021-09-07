@@ -22,11 +22,6 @@ namespace Trabalho.Models.Dominio
         [Display(Name = "Plataforma")]
         public Plataforma plataforma { get; set; }
 
-        [ForeignKey("Empresa")]
-        public int empresaID { get; set; }
-        [Display(Name = "Empresa")]
-        public Empresa empresa { get; set; }
-
         [Display(Name = "Nome do Jogo")]
         [Required(ErrorMessage = "Campo Nome do Jogo é obrigatório")]
         public string nome { get; set; }
@@ -38,10 +33,6 @@ namespace Trabalho.Models.Dominio
         [Display(Name = "Gênero do Jogo")]
         [Required(ErrorMessage = "Campo Gênero do Jogo é obrigatório")]
         public string genero { get; set; }
-
-        [Display(Name = "Data de Lançamento")]
-        [Required(ErrorMessage = "Campo Data de Lançamento é obrigatório")]
-        public DateTime lancamento { get; set; }
 
     }
 }

@@ -22,7 +22,7 @@ namespace Trabalho.Models.Mapeamento
             builder.HasMany(p => p.jogos).WithOne(p => p.usuario)
                 .HasForeignKey(p => p.usuarioID).OnDelete(DeleteBehavior.NoAction);
 
-            builder.ToTable("Usuario");
+            builder.ToTable("Usuarios");
         }
     }
 }

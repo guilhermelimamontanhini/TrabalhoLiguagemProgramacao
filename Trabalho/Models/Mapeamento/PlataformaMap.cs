@@ -24,7 +24,7 @@ namespace Trabalho.Models.Mapeamento
             builder.HasMany(p => p.usuarios).WithOne(p => p.plataforma)
                 .HasForeignKey(p => p.plataformaID).OnDelete(DeleteBehavior.NoAction);
 
-            builder.ToTable("Plataforma");
+            builder.ToTable("Plataformas");
         }
     }
 }

@@ -23,12 +23,14 @@ namespace Trabalho.Models
         /*Dominio da Aplicação*/
         /* DbSet => Vincula as classes com as tabelas do banco */
         public DbSet<Jogo> Jogos { get; set; }
-        public DbSet<Usuario> Usuasio { get; set; }
+        public DbSet<Usuario> Usuarios { get; set; }
+        public DbSet<Plataforma> Plataformas { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
             builder.ApplyConfiguration(new JogoMap());
             builder.ApplyConfiguration(new UsuarioMap());
+            builder.ApplyConfiguration(new PlataformaMap());
         }
 
     }

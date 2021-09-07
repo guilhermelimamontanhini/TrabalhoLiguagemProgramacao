@@ -14,7 +14,6 @@ namespace Trabalho.Models.Dominio
 
         [Display(Name = "Nome da Plataforma")]
         public string nome { get; set; }
-
         public ICollection<Jogo> jogos { get; set; }
         public ICollection<Usuario> usuarios { get; set; }
 
