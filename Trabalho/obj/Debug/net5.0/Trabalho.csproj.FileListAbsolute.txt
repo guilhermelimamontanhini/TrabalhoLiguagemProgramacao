@@ -133,6 +133,11 @@ C:\Users\guilherme\Documents\FEMA_Materias\Faculdade\2_ano\Linguagem_de_Programa
 C:\Users\guilherme\Documents\FEMA_Materias\Faculdade\2_ano\Linguagem_de_Programação\projeto_trabalho\Trabalho\Trabalho\obj\Debug\net5.0\Trabalho.RazorCoreGenerate.cache
 C:\Users\guilherme\Documents\FEMA_Materias\Faculdade\2_ano\Linguagem_de_Programação\projeto_trabalho\Trabalho\Trabalho\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\guilherme\Documents\FEMA_Materias\Faculdade\2_ano\Linguagem_de_Programação\projeto_trabalho\Trabalho\Trabalho\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\guilherme\Documents\FEMA_Materias\Faculdade\2_ano\Linguagem_de_Programação\projeto_trabalho\Trabalho\Trabalho\obj\Debug\net5.0\Razor\Views\Jogos\Create.cshtml.g.cs
+C:\Users\guilherme\Documents\FEMA_Materias\Faculdade\2_ano\Linguagem_de_Programação\projeto_trabalho\Trabalho\Trabalho\obj\Debug\net5.0\Razor\Views\Jogos\Delete.cshtml.g.cs
+C:\Users\guilherme\Documents\FEMA_Materias\Faculdade\2_ano\Linguagem_de_Programação\projeto_trabalho\Trabalho\Trabalho\obj\Debug\net5.0\Razor\Views\Jogos\Details.cshtml.g.cs
+C:\Users\guilherme\Documents\FEMA_Materias\Faculdade\2_ano\Linguagem_de_Programação\projeto_trabalho\Trabalho\Trabalho\obj\Debug\net5.0\Razor\Views\Jogos\Edit.cshtml.g.cs
+C:\Users\guilherme\Documents\FEMA_Materias\Faculdade\2_ano\Linguagem_de_Programação\projeto_trabalho\Trabalho\Trabalho\obj\Debug\net5.0\Razor\Views\Jogos\Index.cshtml.g.cs
 C:\Users\guilherme\Documents\FEMA_Materias\Faculdade\2_ano\Linguagem_de_Programação\projeto_trabalho\Trabalho\Trabalho\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\guilherme\Documents\FEMA_Materias\Faculdade\2_ano\Linguagem_de_Programação\projeto_trabalho\Trabalho\Trabalho\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\guilherme\Documents\FEMA_Materias\Faculdade\2_ano\Linguagem_de_Programação\projeto_trabalho\Trabalho\Trabalho\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -146,3 +151,8 @@ C:\Users\guilherme\Documents\FEMA_Materias\Faculdade\2_ano\Linguagem_de_Programa
 C:\Users\guilherme\Documents\FEMA_Materias\Faculdade\2_ano\Linguagem_de_Programação\projeto_trabalho\Trabalho\Trabalho\obj\Debug\net5.0\ref\Trabalho.dll
 C:\Users\guilherme\Documents\FEMA_Materias\Faculdade\2_ano\Linguagem_de_Programação\projeto_trabalho\Trabalho\Trabalho\obj\Debug\net5.0\Trabalho.pdb
 C:\Users\guilherme\Documents\FEMA_Materias\Faculdade\2_ano\Linguagem_de_Programação\projeto_trabalho\Trabalho\Trabalho\obj\Debug\net5.0\Trabalho.genruntimeconfig.cache
+C:\Users\guilherme\Documents\FEMA_Materias\Faculdade\2_ano\Linguagem_de_Programação\projeto_trabalho\Trabalho\Trabalho\obj\Debug\net5.0\Razor\Views\Plataformas\Create.cshtml.g.cs
+C:\Users\guilherme\Documents\FEMA_Materias\Faculdade\2_ano\Linguagem_de_Programação\projeto_trabalho\Trabalho\Trabalho\obj\Debug\net5.0\Razor\Views\Plataformas\Delete.cshtml.g.cs
+C:\Users\guilherme\Documents\FEMA_Materias\Faculdade\2_ano\Linguagem_de_Programação\projeto_trabalho\Trabalho\Trabalho\obj\Debug\net5.0\Razor\Views\Plataformas\Details.cshtml.g.cs
+C:\Users\guilherme\Documents\FEMA_Materias\Faculdade\2_ano\Linguagem_de_Programação\projeto_trabalho\Trabalho\Trabalho\obj\Debug\net5.0\Razor\Views\Plataformas\Edit.cshtml.g.cs
+C:\Users\guilherme\Documents\FEMA_Materias\Faculdade\2_ano\Linguagem_de_Programação\projeto_trabalho\Trabalho\Trabalho\obj\Debug\net5.0\Razor\Views\Plataformas\Index.cshtml.g.cs
